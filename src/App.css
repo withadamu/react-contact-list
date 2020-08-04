@@ -1,0 +1,28 @@
+.App {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a::after {
+  content: "";
+}
+
+.app-header {
+  background-color: #727272;
+  padding: 30px;
+  margin-bottom: 40px;
+}
+
+h1 {
+	font-family: 'Satisfy', cursive;
+	font-size: 72px;
+	color: #141414;
+  margin: 0;
+  padding: 0;
+}
